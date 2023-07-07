@@ -26,7 +26,7 @@
 	
 	<div class="header">
 	        <div class="container">
-	          <div class="logo">로고</div>
+	          <div class="logo">B</div>
 	          <ul class="gnb">
 	            <li>
 	              <a
@@ -56,7 +56,7 @@
 		
 			<div class="header">
 	        <div class="container">
-	          <div class="logo">로고</div>
+	          <div class="logo">B</div>
 	          <ul class="gnb">
 	            <li>
 	              <a

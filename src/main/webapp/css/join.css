@@ -44,6 +44,8 @@ body {
 .logo {
   margin-right: auto;
   align-items: center;
+  font-size:20px;
+  font-weight:700;
 }
 
 .gnb {

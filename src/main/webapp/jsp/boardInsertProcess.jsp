@@ -26,7 +26,8 @@
 		num=1;
 	}
 	
-	String realFolder="C:\\portfolio\\portfolio_1\\src\\main\\webapp\\upload";
+	/* String realFolder="C:\\portfolio\\portfolio_1\\src\\main\\webapp\\upload"; */
+	String realFolder="C:\\Users\\yj-603-15\\git\\portfolio_board\\portfolio_1\\src\\main\\webapp\\upload";
 	String encType="utf-8";
 	int maxSize=5*1024*1024;
 	
